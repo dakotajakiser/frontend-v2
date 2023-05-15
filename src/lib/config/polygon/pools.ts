@@ -106,6 +106,7 @@ const pools: Pools = {
       '0x7f4f4942f2a14b6ab7b08b10ada1aacede4ee8d4000200000000000000000b44', // stmatci-bb-wmatic/bb-am-usd
       '0x8fd39252d683fdb60bddd4df4b53c9380b496d59000200000000000000000b45', // wsteth-bb-a-weth/bb-am-usd
       '0xfaf3bc722d34146be83a2aac40b43148a51a9126000200000000000000000b4c', // 50kacy/50weth
+      '0x55f67c8723270108d856f18e6587d0dc410b9a8c000100000000000000000b78'. // STARV2
     ],
   },
   Factories: {
